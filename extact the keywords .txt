@@ -1,0 +1,10 @@
+extact the keywords 
+
+"wait before giving me the code: here our data
+Company Name: DYN IT MAROC,
+Company Name	: "Stand No - 4B-25, Hall No - Hall 4",
+Country: Morocco,
+Description: Dyn IT Maroc offre une gamme de services axés sur la transformation digitale et l’intelligence artificielle,
+Keywords	:"Education Tech, Cloud Services, Big Data & Analytics, Artificial Intelligence, Chatbots / Virtual Assistant, Computer Vision, Data Extraction, Deep Learning Platforms, Facial / Iris Recognition, Machine Learning, Natural Language Processing (NLP), Neural Networks, Optical character recognition (OCR), Predictive APIs, Real time translation, Speech Recognition, Business Intelligence, Cloud Solutions, Dashboard, Data Analytics, Data Architecture, Data Integration, Data Lake, Data Management, Data Science, Data Visualisation, Data Warehouse, DataOps, Devops, Extract, transform, load - ETL, Machine Learning, Natural Language Processing - NLP, Structured Query Language - SQL, Data as a Service - DAAS, DevOps, Training or Recruitement, Learning strategy, Training centre resources" "
+
+
